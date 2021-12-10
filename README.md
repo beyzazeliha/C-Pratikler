@@ -1,2 +1,2 @@
-# C-pratikler
+# C# pratikler
 C# pratikler
